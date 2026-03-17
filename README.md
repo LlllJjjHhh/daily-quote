@@ -2,7 +2,7 @@
 
 A beautiful minimalist daily quote web page. Get inspired every day!
 
-🔗 Live Demo: https://<your-username>.github.io/daily-quote/
+🔗 Live Demo: https://LlllJjjHhh.github.io/daily-quote/
 
 ## Features
 
