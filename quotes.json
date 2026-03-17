@@ -1,3 +1,4 @@
+
 [
   {
     "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
@@ -46,5 +47,373 @@
   {
     "text": "You miss 100% of the shots you don't take.",
     "author": "Wayne Gretzky"
+  },
+  {
+    "text": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon"
+  },
+  {
+    "text": "The purpose of our lives is to be happy.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Get busy living or get busy dying.",
+    "author": "Stephen King"
+  },
+  {
+    "text": "You only live once, but if you do it right, once is enough.",
+    "author": "Mae West"
+  },
+  {
+    "text": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "text": "If you want to lift yourself up, lift up someone else.",
+    "author": "Booker T. Washington"
+  },
+  {
+    "text": "Whether you think you can or you think you can't, you're right.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "author": "Maya Angelou"
+  },
+  {
+    "text": "The only impossible journey is the one you never begin.",
+    "author": "Tony Robbins"
+  },
+  {
+    "text": "In order to write about life first you must live it.",
+    "author": "Ernest Hemingway"
+  },
+  {
+    "text": "The unexamined life is not worth living.",
+    "author": "Socrates"
+  },
+  {
+    "text": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Life is not a problem to be solved, but a reality to be experienced.",
+    "author": "Søren Kierkegaard"
+  },
+  {
+    "text": "Everything you've ever wanted is on the other side of fear.",
+    "author": "George Addair"
+  },
+  {
+    "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C.S. Lewis"
+  },
+  {
+    "text": "Limit your possibilities by what you can do. When you go beyond that, you grow.",
+    "author": "Unknown"
+  },
+  {
+    "text": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "If you live to be 100, I hope I live to be 100 minus 1 day, so I never have to live without you.",
+    "author": "A.A. Milne"
+  },
+  {
+    "text": "Imagination is everything. It is the preview of life's coming attractions.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "What you get by achieving your goals is not as important as what you become by achieving them.",
+    "author": "Zig Ziglar"
+  },
+  {
+    "text": "It is never too late to be what you might have been.",
+    "author": "George Eliot"
+  },
+  {
+    "text": "You have within you right now, everything you need to deal with whatever the world can throw at you.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Your time is limited, don't waste it living someone else's life.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "I am not a product of my circumstances. I am a product of my decisions.",
+    "author": "Stephen R. Covey"
+  },
+  {
+    "text": "Every great dream begins with a dreamer.",
+    "author": "Harriet Tubman"
+  },
+  {
+    "text": "Start where you are. Use what you have. Do what you can.",
+    "author": "Arthur Ashe"
+  },
+  {
+    "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "Your life does not get better by chance, it gets better by change.",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+    "author": "Joshua J. Marine"
+  },
+  {
+    "text": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain"
+  },
+  {
+    "text": "The best revenge is massive success.",
+    "author": "Frank Sinatra"
+  },
+  {
+    "text": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "The only person you are destined to become is the person you decide to be.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "What we think, we become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Every strike brings me closer to the next home run.",
+    "author": "Babe Ruth"
+  },
+  {
+    "text": "Two roads diverged in a wood, and I took the one less traveled by, And that has made all the difference.",
+    "author": "Robert Frost"
+  },
+  {
+    "text": "Life is 10% what happens to me and 90% of how I react to it.",
+    "author": "Charles R. Swindoll"
+  },
+  {
+    "text": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+    "author": "Amelia Earhart"
+  },
+  {
+    "text": "You can't cross the sea merely by standing and staring at the water.",
+    "author": "Rabindranath Tagore"
+  },
+  {
+    "text": "If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced.",
+    "author": "Vincent Van Gogh"
+  },
+  {
+    "text": "Don't wait. The time will never be just right.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "author": "Vince Lombardi"
+  },
+  {
+    "text": "Your limitation—it's only your imagination.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Push yourself, because no one else is going to do it for you.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Great things never come from comfort zones.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Today's accomplishments were yesterday's impossibilities.",
+    "author": "Robert H. Schuller"
+  },
+  {
+    "text": "Success doesn't just find you. You have to go out and get it.",
+    "author": "Unknown"
+  },
+  {
+    "text": "The harder you work for something, the greater you'll feel when you achieve it.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Dream bigger. Do bigger.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Don't stop when you're tired. Stop when you're done.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Wake up with determination. Go to bed with satisfaction.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Do something today that your future self will thank you for.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Little things make big days.",
+    "author": "Unknown"
+  },
+  {
+    "text": "It's going to be hard, but hard does not mean impossible.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House"
+  },
+  {
+    "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+    "author": "Harold Abelson"
+  },
+  {
+    "text": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "text": "The only way to learn a new programming language is by writing programs in it.",
+    "author": "Dennis Ritchie"
+  },
+  {
+    "text": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard"
+  },
+  {
+    "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "text": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "text": "In order to be irreplaceable one must always be different.",
+    "author": "Coco Chanel"
+  },
+  {
+    "text": "Beauty is the product of getting the job done simply, correctly, and predictably.",
+    "author": "John Carmack"
+  },
+  {
+    "text": "The function of good software is to make the complex appear to be simple.",
+    "author": "Grady Booch"
+  },
+  {
+    "text": "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Life is really simple, but we insist on making it complicated.",
+    "author": "Confucius"
+  },
+  {
+    "text": "Happiness is not something ready made. It comes from your own actions.",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Three things in life—when gone, never come back: Time, words, and opportunity.",
+    "author": "Unknown"
+  },
+  {
+    "text": "Life is a journey, not a destination.",
+    "author": "Ralph Waldo Emerson"
+  },
+  {
+    "text": "To live is the rarest thing in the world. Most people exist, that is all.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Be the change that you wish to see in the world.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "It is better to be hated for what you are than to be loved for what you are not.",
+    "author": "André Gide"
+  },
+  {
+    "text": "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.",
+    "author": "Marcus Aurelius"
+  },
+  {
+    "text": "The more you know who you are, and what you want, the less you let things upset you.",
+    "author": "Bob Dylan"
+  },
+  {
+    "text": "Don't gain the world and lose your soul; wisdom is better than silver or gold.",
+    "author": "Bob Marley"
+  },
+  {
+    "text": "I've failed over and over and over again in my life. And that is why I succeed.",
+    "author": "Michael Jordan"
+  },
+  {
+    "text": "Every child is an artist. The problem is how to remain an artist once we grow up.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Art is the lie that enables us to realize the truth.",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "If you want to go fast, go alone. If you want to go far, go together.",
+    "author": "African Proverb"
+  },
+  {
+    "text": "A journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu"
+  },
+  {
+    "text": "When you're going through hell, keep going.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "The mind is everything. What you think you become.",
+    "author": "Buddha"
+  },
+  {
+    "text": "Peace comes from within. Do not seek it without.",
+    "author": "Buddha"
+  },
+  {
+    "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "If life were predictable it would cease to be life, and be without flavor.",
+    "author": "Eleanor Roosevelt"
   }
 ]
